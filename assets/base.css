@@ -2310,11 +2310,7 @@ input[type='checkbox'] {
     justify-self: end;
   }
 
-  .header--top-center .header__heading-link,
-  .header--top-center .header__heading {
-    justify-self: center;
-    text-align: center;
-  }
+
 }
 
 /* Header icons */
